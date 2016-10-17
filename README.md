@@ -62,7 +62,7 @@ $(document).ready(function() {
 ```
 
 ## Notes
-- This plugin is compatible with latest versions of all most common browsers. And it also compatible with IE9 or grater.
+- This plugin is compatible with latest versions of all most common browsers. And it also compatible with IE10 or grater.
 
 ## License
 This plugin is available under the MIT license.
