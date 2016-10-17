@@ -1,11 +1,11 @@
 # jQuery Magic Display
-Magic Display is a jQuery plugin that makes the content of your website appear on scroll of the page. See a  [demo here](https://www.stefanozante.com/magicdisplay/demo).
+Magic Display is a jQuery plugin that makes the content of your website appear on scroll of the page. See a  [demo here](http://www.stefanozante.com/magicdisplay/demo).
 
 ## Installation
 
 Download the latest version of the library here:
-- [jQuery Magic Display - Minified](https://www.stefanozante.com/magicdisplay/jquery.magic.display.min.js)
-- [jQuery Magic Display](https://www.stefanozante.com/magicdisplay/jquery.magic.display.js)
+- [jQuery Magic Display - Minified](http://www.stefanozante.com/magicdisplay/jquery.magic.display.min.js)
+- [jQuery Magic Display](http://www.stefanozante.com/magicdisplay/jquery.magic.display.js)
 
 Include the jQuery library to your HTML and you are ready to go:
 ```HTML
