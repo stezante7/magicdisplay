@@ -10,6 +10,12 @@ Include the jQuery library to your HTML and you are ready to go:
 <script type="text/javascript" src="jquery.magic.display.js"></script>
 ```
 
+or CDN
+
+```HTML
+ <script type="text/javascript" src="https://gitcdn.xyz/repo/stezante7/magicdisplay/master/jquery.magic.display.min.js"></script>
+```
+
 ## How to use it?
 
 Using Magic display is very simple, you only need to initialise the plugin and then add class `.magic-display` to each element you want to animate.
